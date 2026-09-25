@@ -1,0 +1,10 @@
+Place your trained model file here.
+
+Expected filename: loan_default_model.pkl
+
+The app loads it from: model/loan_default_model.pkl
+
+Steps:
+1. Copy your balance_randome_forest.pkl file into this folder.
+2. Rename it to loan_default_model.pkl
+3. Run: streamlit run app.py
